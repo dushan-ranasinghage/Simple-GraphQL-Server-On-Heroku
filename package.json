@@ -1,0 +1,24 @@
+{
+  "name": "simple-graphql-server",
+  "version": "1.0.0",
+  "description": "Testing GraphQL server for hosting",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dushanrandika/Simple-GraphQl-Server.git"
+  },
+  "author": "Dushan Randika",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dushanrandika/Simple-GraphQl-Server/issues"
+  },
+  "homepage": "https://github.com/dushanrandika/Simple-GraphQl-Server#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "express-graphql": "^0.8.0",
+    "graphql": "^14.3.1"
+  }
+}
